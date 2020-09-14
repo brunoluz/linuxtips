@@ -9,3 +9,9 @@
 |-|-|
 |**locate**|Finds files in system using a local database (need to instal mlocate package)|
 |**updatedb**|Updates the database used by locate command|
+|-|-|
+|**man**|System wide documentation that provides short reference manuals for individual commands|
+|**info**|Another documentation system originating in the GNU project|
+|**--help**|Bash command for getting help|
+|**gnome-help** or **yelp**|Graphical help system for Gnome|
+|**khelpcenter**|Graphical help system for KDE|
