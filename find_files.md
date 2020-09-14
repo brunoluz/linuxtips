@@ -50,3 +50,7 @@ File sizes can also be exact numbers (**n**), **+n** or **-n**
 
 To find files greater than 10MB:\
 **$ find / -size +10M**
+
+## Finding Files Based on Type
+**-type d** for directories\
+**-type f** for files
