@@ -15,3 +15,7 @@
 |**--help**|Bash command for getting help|
 |**gnome-help** or **yelp**|Graphical help system for Gnome|
 |**khelpcenter**|Graphical help system for KDE|
+|-|-|
+|**reboot**|Restarts the system|
+|**shutdown**|Shuts down the system|
+|**gnome-session-quit**|Logs you out (gnome only)|
