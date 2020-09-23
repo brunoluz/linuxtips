@@ -19,3 +19,8 @@
 |**reboot**|Restarts the system|
 |**shutdown**|Shuts down the system|
 |**gnome-session-quit**|Logs you out (gnome only)|
+|-|-|
+|**at**|Schedules future process to be executed|
+|**atq**|Shows scheduled jobs using at|
+|**cron**|Schedules background process jobs at specific times and/or days on an on-going basis|
+|**sleep**|Suspends execution for a specific time|
