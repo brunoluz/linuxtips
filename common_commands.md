@@ -22,5 +22,11 @@
 |-|-|
 |**at**|Schedules future process to be executed|
 |**atq**|Shows scheduled jobs using at|
-|**cron**|Schedules background process jobs at specific times and/or days on an on-going basis|
+|**crontab**|Schedules background process jobs at specific times and/or days on an on-going basis|
 |**sleep**|Suspends execution for a specific time|
+|-|-|
+|**bg**|Returns a stoped background process to running state|
+|**fg**|Brings back the process to the foreground|
+|**jobs**|Enumerates background processes in the current terminal session|
+|*Ctrl + z*|Suspends a foreground process and leave it on background|
+|**pstree**|Shows the process tree|
