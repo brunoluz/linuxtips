@@ -21,7 +21,7 @@
 |**gnome-session-quit**|Logs you out (gnome only)|
 |-|-|
 |**at**|Schedules future process to be executed|
-|**atq**|Shows scheduled jobs using at|
+|**atq**|Shows scheduled jobs ustimeing at|
 |**crontab**|Schedules background process jobs at specific times and/or days on an on-going basis|
 |**sleep**|Suspends execution for a specific time|
 |-|-|
@@ -30,3 +30,22 @@
 |**jobs**|Enumerates background processes in the current terminal session|
 |*Ctrl + z*|Suspends a foreground process and leave it on background|
 |**pstree**|Shows the process tree|
+|-|-|
+|**diff**|Compares files and directories|
+|**diff3**|Compares three different files|
+|**cmp**|Compares binary files|
+|**patch**|Applies delta files to update files or configuration files|
+|**file**|Determites which file type a file is|
+|**dd**|Converts and copy files|
+|**rsync**|Syncronizes entire directory trees|
+|-|-|
+|**gzip**|The most frequently used Linux compression utility
+|**bzip2**|Produces files significantly smaller than those produced by gzip
+|**xz**|The most space-efficient compression utility used in Linux
+|**zip**|Is often required to examine and decompress archives from other operating systems
+|**tar**|Groups and ungroup files into a single file|
+|**gunzip**|Decompress gz files|
+|**bunzip2**|Decompress bz2 files|
+|**unxz**|Decompress xz files|
+|**unzip**|Decompress zip files|
+|**time**|Writes to output the time a command took to run|
