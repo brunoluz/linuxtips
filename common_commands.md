@@ -49,3 +49,13 @@
 |**unxz**|Decompress xz files|
 |**unzip**|Decompress zip files|
 |**time**|Writes to output the time a command took to run|
+|-|-|
+|**nano**|Simple text editor for CLI|
+|**gedit**|Simple text editor for GNOME environment|
+|**kwrite**|Simple text editor for KDE environment|
+|**kate**|Simple text editor for KDE environment|
+|**vi**|Advanced text editor|
+|**vim**|vi improved|
+|**gvim**|GNOME vi improved|
+|**kvim**|KDE vi improved|
+|**vimtutor**|Small tutorial for vim text editor|
