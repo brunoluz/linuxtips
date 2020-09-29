@@ -59,3 +59,4 @@
 |**gvim**|GNOME vi improved|
 |**kvim**|KDE vi improved|
 |**vimtutor**|Small tutorial for vim text editor|
+|**emacs**|Popular advanced text editor|
