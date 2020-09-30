@@ -60,3 +60,19 @@
 |**kvim**|KDE vi improved|
 |**vimtutor**|Small tutorial for vim text editor|
 |**emacs**|Popular advanced text editor|
+|-|-|
+|**whoami**|Shows current logged user|
+|**who**|Shows current logged users|
+|**alias**|Creates an alias|
+|**unalias**|Removes an alias|
+|**useradd**|Adds an user to the system|
+|**userdel**|Removes an user from the system|
+|**id**|Gives information about the some user|
+|**groupadd**|Adds an group to the system|
+|**groupdel**|Removes an group from the system|
+|**usermod**|Manages users|
+|**sudo**|Executes a command with administrative privileges|
+|**su**|Substitutes the current user|
+|**set**|Shows environment variables|
+|**env**|Shows environment variables|
+|**export**|Shows environment variables|
