@@ -76,3 +76,14 @@
 |**set**|Shows environment variables|
 |**env**|Shows environment variables|
 |**export**|Shows environment variables|
+|**history**|Shows your command line history|
+|-|-|
+|**chown**|Changes user ownership of a file or directory|
+|**chgrp**|Changes group ownership of a file or directory|
+|**chmod**|Changes permissions on the file, which can be owner, group or others|
+|-|-|
+|**cat**|Prints files and/or concatenate multiple files together|
+|**tac**|Prints lines in reverse order|
+|**less**|Reads and outputs a file in a buffered manner|
+|**head**|Reads the first few lines of each named file and displays on standard output|
+|**tail**|Prints the last few lines of each named file and displays it on standard output|
