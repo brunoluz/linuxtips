@@ -87,3 +87,9 @@
 |**less**|Reads and outputs a file in a buffered manner|
 |**head**|Reads the first few lines of each named file and displays on standard output|
 |**tail**|Prints the last few lines of each named file and displays it on standard output|
+|-|-|
+|**zcat**|View a compressed file|
+|**zless**|Reads and outputs a compressed file in a buffered manner|
+|**zmore**|Reads and outputs a compressed file in a buffered manner|
+|**zgrep**|Search inside a compressed file|
+|**zdiff**|compare two compressed files|
