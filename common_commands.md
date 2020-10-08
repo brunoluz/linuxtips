@@ -93,3 +93,13 @@
 |**zmore**|Reads and outputs a compressed file in a buffered manner|
 |**zgrep**|Search inside a compressed file|
 |**zdiff**|compare two compressed files|
+|-|-|
+|**sed**|Stream editor for filtering and transforming text|
+|**awd**|Pattern scanning and processing language|
+|**sort**|Sort lines of text files|
+|**uniq**|Removes duplicates consecutives lines|
+|**paste**|Merge lines of files|
+|**join**|Join lines of two files on a common field|
+|**split**|Split a file into pieces|
+|**grep**|Print lines that match patterns|
+|**strings**|Print the sequences of printable characters in files|
