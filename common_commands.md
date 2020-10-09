@@ -103,3 +103,9 @@
 |**split**|Split a file into pieces|
 |**grep**|Print lines that match patterns|
 |**strings**|Print the sequences of printable characters in files|
+|**tr**|Translate (replace) or delete characters|
+|**tee**|Copy standard input to each FILE, and also to standard output|
+|**wc**|Counts the number of lines, words, and characters in a file or list of files|
+|**cut**|Manipulates column-based files and is designed to extract specific columns|
+|-|-|
+|**host**|Show the IP Address of a host|
