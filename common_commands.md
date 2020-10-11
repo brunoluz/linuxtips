@@ -109,3 +109,15 @@
 |**cut**|Manipulates column-based files and is designed to extract specific columns|
 |-|-|
 |**host**|Show the IP Address of a host|
+|**ip**|Show / manipulate routing, network devices, interfaces and tunnels|
+|**ifconfig (obsolete)**|Configure a network interface|
+|**route (obsolete)**|Show / manipulate the IP routing table|
+|**ping**|Send ICMP ECHO_REQUEST to network hosts|
+|**traceroute**|Trace a route to a host|
+|**ethtool**|Queries network interfaces and can also set various parameters such as the speed|
+|**netstat**|Displays all active connections and routing tables. Useful for monitoring performance and troubleshooting|
+|**nmap**|Scans open ports on a network. Important for security analysis|
+|**tcpdump**|Dumps network traffic for analysis|
+|**iptraf**|Monitors network traffic in text mode|  
+|**mtr**|Combines functionality of ping and traceroute and gives a continuously updated display|
+|**dig**|Tests DNS workings. A good replacement for host and nslookup|
