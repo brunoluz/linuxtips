@@ -121,3 +121,6 @@
 |**iptraf**|Monitors network traffic in text mode|  
 |**mtr**|Combines functionality of ping and traceroute and gives a continuously updated display|
 |**dig**|Tests DNS workings. A good replacement for host and nslookup|
+|-|-|
+|**wget**|Download a file from internet|
+|**curl**|Transfer data from or to a server|
