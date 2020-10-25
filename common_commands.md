@@ -126,3 +126,5 @@
 |**curl**|Transfer data from or to a server|
 |**ssh**|Remote login client|
 |**scp**|Secure file copy|
+|-|-|
+|**mktemp**|Make a unique temporary file or directory|
